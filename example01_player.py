@@ -16,6 +16,7 @@ def main():
     in_tribe = (profile.tribe_ID.value)
     if in_tribe:
         print 'Tribe ID: %s' % profile.tribe_ID.value
+    print 'Spectator: %s' % str(profile.is_spectator)
     print 'Level: %s' % str(profile.character.level_ups.value + 1)
     print 'Experience: %s' % profile.character.experience.value
     print 'Stats:'

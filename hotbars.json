@@ -1,0 +1,72 @@
+[
+    {
+        "": 19, 
+        "PrimalItem_WeaponMetalHatchet_C": 33, 
+        "PrimalItem_WeaponStonePick_C": 103, 
+        "PrimalItem_WeaponPike_C": 42, 
+        "PrimalItem_WeaponMetalPick_C": 249
+    }, 
+    {
+        "PrimalItem_WeaponCrossbow_C": 26, 
+        "PrimalItem_WeaponMetalHatchet_C": 231, 
+        "PrimalItem_WeaponStoneHatchet_C": 99, 
+        "PrimalItem_WeaponStonePick_C": 22, 
+        "PrimalItem_WeaponMetalPick_C": 60
+    }, 
+    {
+        "PrimalItem_WeaponCrossbow_C": 46, 
+        "PrimalItem_WeaponSickle_C": 37, 
+        "PrimalItem_WeaponMetalHatchet_C": 56, 
+        "PrimalItem_WeaponPike_C": 102, 
+        "PrimalItem_WeaponSpear_C": 40
+    }, 
+    {
+        "PrimalItem_WeaponCrossbow_C": 89, 
+        "": 50, 
+        "PrimalItem_WeaponOneShotRifle_C": 34, 
+        "PrimalItem_WeaponPike_C": 36, 
+        "PrimalItem_WeaponBow_C": 44
+    }, 
+    {
+        "": 73, 
+        "PrimalItem_WeaponCrossbow_C": 53, 
+        "PrimalItem_WeaponSpyglass_C": 50, 
+        "PrimalItem_WeaponTorch_C": 28, 
+        "PrimalItemConsumable_CookedMeat_C": 38
+    }, 
+    {
+        "": 129, 
+        "PrimalItem_WeaponCrossbow_C": 26, 
+        "PrimalItem_WeaponSpyglass_C": 47, 
+        "PrimalItem_WeaponTorch_C": 31, 
+        "PrimalItemConsumable_CookedMeat_C": 43
+    }, 
+    {
+        "": 173, 
+        "PrimalItem_WeaponSpyglass_C": 48, 
+        "PrimalItem_WeaponGPS_C": 20, 
+        "PrimalItemConsumable_WaterskinCraftable_C": 18, 
+        "PrimalItemConsumable_CookedMeat_C": 30
+    }, 
+    {
+        "": 184, 
+        "PrimalItem_WeaponSpyglass_C": 33, 
+        "PrimalItemConsumable_Berry_Azulberry_C": 18, 
+        "PrimalItemConsumable_Berry_Amarberry_C": 19, 
+        "PrimalItemConsumable_CookedMeat_C": 33
+    }, 
+    {
+        "": 170, 
+        "PrimalItem_WeaponSpyglass_C": 24, 
+        "PrimalItemConsumable_WaterskinCraftable_C": 22, 
+        "PrimalItemConsumable_Berry_Azulberry_C": 18, 
+        "PrimalItemConsumable_CookedMeat_C": 36
+    }, 
+    {
+        "": 140, 
+        "PrimalItemConsumable_WaterskinCraftable_C": 19, 
+        "PrimalItemConsumable_Berry_Azulberry_C": 20, 
+        "PrimalItemConsumable_Berry_Mejoberry_C": 31, 
+        "PrimalItemConsumable_CookedMeat_C": 79
+    }
+]
